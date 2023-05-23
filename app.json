@@ -5,6 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "scheme": "myapp",
+
+    "web": {
+      "bundler": "metro"
+    }
   }
 }
