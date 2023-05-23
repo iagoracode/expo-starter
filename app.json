@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "jrapp",
+    "slug": "jrapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
